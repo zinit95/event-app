@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 리액트 프로젝트 시작하기
 
 1. nodejs 설치
@@ -35,3 +36,7 @@ $ npm start
 3. sass : CSS 확장문법 라이브러리
 
 - `$ npm install sass`
+=======
+# event-app
+event-app
+>>>>>>> dbdc736df0e5ee39a4aab7fd1e53c45777579202
